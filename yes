@@ -7,9 +7,9 @@ getgenv().adMessage = "Agnar on top!"
 getgenv().adMessageCooldown = 2
 
 getgenv().alts = { -- Max 38 alts! (enter user ids where the 0 is)
-Alt1 = 0,
-Alt2 = 0,
-Alt3 = 0,
+    Alt1 = 0,
+    Alt2 = 0,
+    Alt3 = 0,
 }
 -- loader
 loadstring(game:HttpGet("https://raw.githubusercontent.com/imlukii/AltCtrl/main/yes", true))()
